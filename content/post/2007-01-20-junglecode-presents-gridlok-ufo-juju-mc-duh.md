@@ -15,7 +15,7 @@ title: junglecode presents GRIDLOK + UFO! + JUJU + MC DUH
 url: /2007/01/20/junglecode-presents-gridlok-ufo-juju-mc-duh/
 ---
 
-[![](http://www.junglecode.com/images/blog/junglecode_monthly_001_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=28011)junglecode is proud to announce a new monthly event on the 3rd Friday of each month in 2007. For our first show, we are pleased to present 3 local residents who are largely responsible for putting and keeping San Francisco on the worldwide Drum & Bass map. These producers are world-class performers–exactly as you expect at junglecode shows!
+[![](https://www.junglecode.com/images/blog/junglecode_monthly_001_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=28011)junglecode is proud to announce a new monthly event on the 3rd Friday of each month in 2007. For our first show, we are pleased to present 3 local residents who are largely responsible for putting and keeping San Francisco on the worldwide Drum & Bass map. These producers are world-class performers–exactly as you expect at junglecode shows!
 
 <span style="font-weight:bold">GRIDLOK</span>  
 \[ Project 51 : Violence Recordings : Virus : Renegade Hardware \]  

@@ -15,7 +15,7 @@ title: JUNGLECODE...now every third Saturday
 url: /2008/05/18/junglecode-now-every-third-saturday/
 ---
 
-[![](http://www.junglecode.com/images/blog/web_flyers/05_08_flyer2_web.jpg)](http://www.junglecode.org)
+[![](https://www.junglecode.com/images/blog/web_flyers/05_08_flyer2_web.jpg)](http://www.junglecode.org)
 
 This month, we bring you some local heavies…   
 [<span style="font-weight: bold">BICOLAS</span>](http://www.dancerecords.com)  

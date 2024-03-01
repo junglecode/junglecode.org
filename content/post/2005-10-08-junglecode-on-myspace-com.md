@@ -18,4 +18,4 @@ url: /2005/10/08/junglecode-on-myspace-com/
 <http://www.myspace.com/junglecode>
 
 This blog is still the primary hub for all things junglecode, but we just put up a little page for the myspace heads out there. Be our “friend” if you have a myspace…be our friend if you don’t.  
-[![](http://www.junglecode.com/images/blog/add_thanks.jpg)](http://www.myspace.com/junglecode)
+[![](https://www.junglecode.com/images/blog/add_thanks.jpg)](http://www.myspace.com/junglecode)

@@ -15,7 +15,7 @@ title: junglecode presents Counterstrike
 url: /2007/07/21/junglecode-presents-counterstrike/
 ---
 
-[![](http://www.junglecode.com/images/blog/therapy_monthly_7_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=32597)
+[![](https://www.junglecode.com/images/blog/therapy_monthly_7_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=32597)
 
 [<span style="font-weight: bold">COUNTERSTRIKE</span>](http://www.algorythmrecordings.com/cs.html)  
 \[ Algorythm:Human:Evol Intent:Obscene:Barcode:Outbreak:Moving Shadow – South Africa \]

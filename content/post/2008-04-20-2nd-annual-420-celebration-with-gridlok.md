@@ -15,7 +15,7 @@ title: 2nd Annual 420 Celebration with GRIDLOK
 url: /2008/04/20/2nd-annual-420-celebration-with-gridlok/
 ---
 
-[![](http://www.junglecode.com/images/blog/web_flyers/420_2_thumb.jpg)](http://www.groundscore.net/board/viewtopic.php?t=38653)
+[![](https://www.junglecode.com/images/blog/web_flyers/420_2_thumb.jpg)](http://www.groundscore.net/board/viewtopic.php?t=38653)
 
 We had a blast at [last year’s junglecode 420 event](http://www.junglecode.org/2007/04/420-harvest-celebration.html) so we’re doing it again!
 

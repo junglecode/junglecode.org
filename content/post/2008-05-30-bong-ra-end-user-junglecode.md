@@ -15,7 +15,7 @@ title: Bong-Ra + End.User @ JUNGLECODE
 url: /2008/05/30/bong-ra-end-user-junglecode/
 ---
 
-[![](http://www.junglecode.com/images/blog/bongra_back_thumb.jpg)](http://junglecode.com/images/blog/bongra_back_web.jpg)
+[![](https://www.junglecode.com/images/blog/bongra_back_thumb.jpg)](http://junglecode.com/images/blog/bongra_back_web.jpg)
 
 junglecode and [.SYSTEM. Productions](http://www.myspace.com/systemproduct) bring you the first ever US appearance of…
 

@@ -15,7 +15,7 @@ title: 'New jungle mix for 2005'
 url: /2005/02/21/new-jungle-mix-for-2005/
 ---
 
-Here’s a Jungle DJ mix that was recorded today. Try [this link](http://www.junglecode.com/mp3s/junglecode_02_20_05.m3u) first, if it doesn’t work, use [this one](http://www.junglecode.com/mp3s/junglecode_02_20_05.mp3). (MP3 format)
+Here’s a Jungle DJ mix that was recorded today. Try [this link](https://www.junglecode.com/mp3s/junglecode_02_20_05.m3u) first, if it doesn’t work, use [this one](https://www.junglecode.com/mp3s/junglecode_02_20_05.mp3). (MP3 format)
 
 Featuring the following artists:
 

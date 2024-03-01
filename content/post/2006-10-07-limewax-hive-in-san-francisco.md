@@ -15,7 +15,7 @@ title: Limewax + Hive in San Francisco
 url: /2006/10/07/limewax-hive-in-san-francisco/
 ---
 
-[![](http://www.junglecode.com/images/blog/limewax_front.jpg)](http://www.groundscore.net/board/viewtopic.php?t=25404)
+[![](https://www.junglecode.com/images/blog/limewax_front.jpg)](http://www.groundscore.net/board/viewtopic.php?t=25404)
 
 junglecode is doing it again. This time, we’re teaming up wih the REFLEX drum & bass crew to bring you Limewax (Freak Recordings, UK) for the first time in the USA. We’re also bringing DJ Hive (Violence Recordings, SF) to the same stage to make sure this is one of the heaviest junglist events you’ll come across in a long time. junglecode and REFLEX DJ’s will also bring the sustained sound pressure levels to support this event.
 

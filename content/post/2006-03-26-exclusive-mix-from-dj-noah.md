@@ -11,7 +11,7 @@ categories:
 date: "2006-03-26T20:25:00Z"
 enclosure:
 - |
-  http://www.junglecode.com/mp3s/noah_03_14_2006.mp3
+  https://www.junglecode.com/mp3s/noah_03_14_2006.mp3
   29976631
   audio/mpeg
 guid: http://new.junglecode.org/?p=23
@@ -20,10 +20,10 @@ title: Exclusive mix from DJ Noah
 url: /2006/03/26/exclusive-mix-from-dj-noah/
 ---
 
-[![](http://www.junglecode.com/images/blog/noah_krause_thumb.jpg)](http://www.myspace.com/44773914)  
+[![](https://www.junglecode.com/images/blog/noah_krause_thumb.jpg)](http://www.myspace.com/44773914)  
 We are pleased to announce our newest junglecode resident DJ NOAH (aka Noah Krause) from deep in the jungles of the [Western Addition](http://www.westaddradio.com) in San Francisco. DJ NOAH will be appearing alongside DJ DYLAN on May 2, 2006 at PHUTURO. Here is an exclusive studio mix recorded on June 14, 2006.
 
-[Download](http://www.junglecode.com/mp3s/noah_03_14_2006.mp3) (MP3 format)
+[Download](https://www.junglecode.com/mp3s/noah_03_14_2006.mp3) (MP3 format)
 
 Here’s the track listing:
 

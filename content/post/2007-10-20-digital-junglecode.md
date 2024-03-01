@@ -15,7 +15,7 @@ title: DIGITAL @ junglecode
 url: /2007/10/20/digital-junglecode/
 ---
 
-[![](http://www.junglecode.com/images/blog/junglecode_monthly_010_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=34727)
+[![](https://www.junglecode.com/images/blog/junglecode_monthly_010_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=34727)
 
 This month, we bring you the don:   
 [<span style="font-weight: bold">DIGITAL</span>](http://www.myspace.com/ukdigital)  

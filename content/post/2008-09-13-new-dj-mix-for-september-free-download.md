@@ -11,7 +11,7 @@ categories:
 date: "2008-09-13T19:00:00Z"
 enclosure:
 - |
-  http://www.junglecode.com/mp3s/noah_09_13_2008.mp3
+  https://www.junglecode.com/mp3s/noah_09_13_2008.mp3
   102674390
   audio/mpeg
 guid: http://new.junglecode.org/?p=60
@@ -20,10 +20,10 @@ title: New DJ Mix for September (free download)
 url: /2008/09/13/new-dj-mix-for-september-free-download/
 ---
 
-[![](http://www.junglecode.com/images/blog/noah_09_13_08_thumb.jpg)](http://www.junglecode.com/images/blog/noah_09_13_08_web.jpg)  
+[![](https://www.junglecode.com/images/blog/noah_09_13_08_thumb.jpg)](https://www.junglecode.com/images/blog/noah_09_13_08_web.jpg)  
 Here is a brand-new mix from junglecode resident DJ NOAH (aka Noah Krause) recorded at the junglecode studio today.
 
-[Download](http://www.junglecode.com/mp3s/noah_09_13_2008.mp3) (MP3 format)
+[Download](https://www.junglecode.com/mp3s/noah_09_13_2008.mp3) (MP3 format)
 
 Here’s the track listing:
 

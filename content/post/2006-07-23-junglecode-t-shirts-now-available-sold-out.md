@@ -17,9 +17,9 @@ url: /2006/07/23/junglecode-t-shirts-now-available-sold-out/
 
 Very Limited Edition t-shirts are now available in black, green, or magenta. Adult medium or large sizes.
 
-![](http://www.junglecode.com/images/blog/junglecode_logo_black_sm.gif)  
-![](http://www.junglecode.com/images/blog/junglecode_logo_green_sm.gif)  
-![](http://www.junglecode.com/images/blog/junglecode_logo_magenta_sm.gif)  
+![](https://www.junglecode.com/images/blog/junglecode_logo_black_sm.gif)  
+![](https://www.junglecode.com/images/blog/junglecode_logo_green_sm.gif)  
+![](https://www.junglecode.com/images/blog/junglecode_logo_magenta_sm.gif)  
 Printed in the USA on imported fabric.  
 $25.00 each shirt. 100% cotton.
 

@@ -15,6 +15,6 @@ title: junglecode @ RELOADED
 url: /2008/04/18/junglecode-reloaded/
 ---
 
-![](http://www.junglecode.com/images/blog/reloadedfrontfinalweb.jpg)
+![](https://www.junglecode.com/images/blog/reloadedfrontfinalweb.jpg)
 
 Many thanks to the North Bay crew for having us play at Reloaded tonight. Big UP to the cool junglists in Petaluma!

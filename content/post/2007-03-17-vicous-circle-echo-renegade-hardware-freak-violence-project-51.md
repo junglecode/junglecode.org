@@ -15,7 +15,7 @@ title: VICOUS CIRCLE + ECHO | Renegade Hardware | Freak | Violence | Project 51
 url: /2007/03/17/vicous-circle-echo-renegade-hardware-freak-violence-project-51/
 ---
 
-[![](http://www.junglecode.com/images/blog/vicious_circle_echo_front_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=29441)  
+[![](https://www.junglecode.com/images/blog/vicious_circle_echo_front_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=29441)  
 <span style="font-weight: bold">[VICIOUS CIRCLE](http://www.myspace.com/viciouscircleuk)</span>  
 \[ Renegade Hardware : Freak : UK \]  
 <span style="font-weight: bold">[ECHO](http://www.myspace.com/deejayecho)</span>  

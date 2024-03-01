@@ -11,7 +11,7 @@ categories:
 date: "2008-06-26T20:36:00Z"
 enclosure:
 - |
-  http://www.junglecode.com/mp3s/jet_06_26_2008.mp3
+  https://www.junglecode.com/mp3s/jet_06_26_2008.mp3
   34684259
   audio/mpeg
 guid: http://new.junglecode.org/?p=58
@@ -20,11 +20,11 @@ title: New DJ mix from Jet, fresh from Scotland
 url: /2008/06/26/new-dj-mix-from-jet-fresh-from-scotland/
 ---
 
-![](http://www.junglecode.com/images/blog/calculator_1.jpg)
+![](https://www.junglecode.com/images/blog/calculator_1.jpg)
 
-[Here’s a new mix](http://www.junglecode.com/mp3s/jet_06_26_2008.mp3) for your downloading pleasure. It contains tracks that Jet picked up at Underground Solu’shn in Edinburgh, Scotland last week. Enjoy!
+[Here’s a new mix](https://www.junglecode.com/mp3s/jet_06_26_2008.mp3) for your downloading pleasure. It contains tracks that Jet picked up at Underground Solu’shn in Edinburgh, Scotland last week. Enjoy!
 
-[http://www.junglecode.com/mp3s/jet\_06\_26\_2008.mp3](http://www.junglecode.com/mp3s/jet_06_26_2008.mp3)
+[https://www.junglecode.com/mp3s/jet\_06\_26\_2008.mp3](https://www.junglecode.com/mp3s/jet_06_26_2008.mp3)
 
 Tracklisting:  
 Phace + Rawtakk – Stretch Pack  

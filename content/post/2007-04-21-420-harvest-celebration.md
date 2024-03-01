@@ -15,7 +15,7 @@ title: 420 Harvest Celebration
 url: /2007/04/21/420-harvest-celebration/
 ---
 
-[![](http://www.junglecode.com/images/blog/420_preview_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=29652)
+[![](https://www.junglecode.com/images/blog/420_preview_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=29652)
 
 To celebrate the harvest on April 20, 2007, junglecode proudly presents…
 

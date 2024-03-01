@@ -15,7 +15,7 @@ title: GRIDLOK 421 @ SHELTER
 url: /2009/04/22/gridlok-421-shelter/
 ---
 
-![](http://www.junglecode.com/images/blog/web_flyers/421_thumb.jpg)  
+![](https://www.junglecode.com/images/blog/web_flyers/421_thumb.jpg)  
 This is the third year of the annual junglecode 420 event, and with the global economy in the tank, we had our doubts about the feasibility of doing another one. Well, with a LOT of help from our friends at PROJECT 51 and SHELTER, we are so happy to bring back GRIDLOK all the way from Los Angeles to headline the show on Tuesday, April 21 at Underground SF in San Francisco.
 
 We hear you loud and clear: You want world-class drum&bass for cheap! How does five bucks sound? It will sound awesome!!!
@@ -26,13 +26,13 @@ He’ll arrive with a bag of fresh tunes that you will not hear anywhere else, m
 
 Also on deck for this special event:
 
-![](http://www.junglecode.com/images/blog/sillykid_warbreaker.jpg)  
+![](https://www.junglecode.com/images/blog/sillykid_warbreaker.jpg)  
 War//Breaker vs. Silly Kid
 
-![](http://www.junglecode.com/images/blog/r3m_grace.jpg)  
+![](https://www.junglecode.com/images/blog/r3m_grace.jpg)  
 Grace & R3M
 
-![](http://www.junglecode.com/images/blog/hybrid_strain.jpg)  
+![](https://www.junglecode.com/images/blog/hybrid_strain.jpg)  
 Hybrid Strain
 
 Hosted by MC DUH

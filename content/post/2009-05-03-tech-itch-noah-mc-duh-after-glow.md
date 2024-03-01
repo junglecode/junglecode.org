@@ -15,7 +15,7 @@ title: TECH ITCH, NOAH, MC DUH @ AFTER GLOW
 url: /2009/05/03/tech-itch-noah-mc-duh-after-glow/
 ---
 
-![](http://www.junglecode.com/images/blog/techitch_afterglow_thumb.jpg)
+![](https://www.junglecode.com/images/blog/techitch_afterglow_thumb.jpg)
 
 UPDATE: Tech Itch was not able to perform at this event due to a family emergency. We wish Mark and his family all the best and look forward to his return to San Francisco at a later date.
 
@@ -35,10 +35,10 @@ With 2006 seeing the 50th release on the Tech Itch label and up to 25 releases o
 
 JUNGLECODE artists on deck for this event:
 
-![](http://www.junglecode.com/images/blog/noah_phuturo_thumb.jpg)  
+![](https://www.junglecode.com/images/blog/noah_phuturo_thumb.jpg)  
 Noah
 
-![](http://www.junglecode.com/images/blog/max_thumb.jpg)  
+![](https://www.junglecode.com/images/blog/max_thumb.jpg)  
 MC DUH
 
 Kelly’s Mission Rock  

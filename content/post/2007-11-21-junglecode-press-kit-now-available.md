@@ -15,7 +15,7 @@ title: junglecode press kit now available
 url: /2007/11/21/junglecode-press-kit-now-available/
 ---
 
-[![](http://www.junglecode.com/images/blog/junglecode_logo_green_sm.gif)](http://www.junglecode.org)
+[![](https://www.junglecode.com/images/blog/junglecode_logo_green_sm.gif)](http://www.junglecode.org)
 
 [junglecode](http://www.junglecode.org) is a tightly-knit collective of artists, engineers, scientists, and other free thinkers. Our mission is to promote the junglist spirit in music, art, and technology. We are based in San Francisco, California.
 
@@ -25,6 +25,6 @@ The preferred usage is “junglecode” or “JUNGLECODE” in all lower-case or
 
 Examples of incorrect usage: “Jungle Code” or “Jungle-Code”
 
-[Download the flyer pack by clicking here.](http://www.junglecode.com/images/blog/junglecode_press_kit.zip)
+[Download the flyer pack by clicking here.](https://www.junglecode.com/images/blog/junglecode_press_kit.zip)
 
 Thanks for helping to promote the junglecode mission!

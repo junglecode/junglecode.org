@@ -11,7 +11,7 @@ categories:
 date: "2006-07-15T06:28:00Z"
 enclosure:
 - |
-  http://www.junglecode.com/mp3s/noah_07_14_2006.mp3
+  https://www.junglecode.com/mp3s/noah_07_14_2006.mp3
   35051802
   audio/mpeg
 guid: http://new.junglecode.org/?p=28
@@ -20,10 +20,10 @@ title: Exclusive Studio Mix MP3 Download
 url: /2006/07/15/exclusive-studio-mix-mp3-download/
 ---
 
-[![](http://www.junglecode.com/images/blog/noah_phuturo_thumb.jpg)](http://www.junglecode.com/images/blog/noah_phuturo.jpg)  
+[![](https://www.junglecode.com/images/blog/noah_phuturo_thumb.jpg)](https://www.junglecode.com/images/blog/noah_phuturo.jpg)  
 Here is another exclusive studio mix from junglecode resident DJ NOAH (aka Noah Krause.)
 
-[Download](http://www.junglecode.com/mp3s/noah_07_14_2006.mp3) (MP3 format)
+[Download](https://www.junglecode.com/mp3s/noah_07_14_2006.mp3) (MP3 format)
 
 Here’s the track listing:
 

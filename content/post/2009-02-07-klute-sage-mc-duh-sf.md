@@ -15,19 +15,19 @@ title: KLUTE * SAGE * MC DUH * SF
 url: /2009/02/07/klute-sage-mc-duh-sf/
 ---
 
-[![](http://www.junglecode.com/images/blog/web_flyers/klute_thumb.jpg)](http://www.junglecode.org)  
+[![](https://www.junglecode.com/images/blog/web_flyers/klute_thumb.jpg)](http://www.junglecode.org)  
 [<span>KLUTE</span>](http://www.commercialsuicide.org)  
 \[ Commercial Suicide : UK \]
 
 Our first 2009 show will stay true to our original charter: 100% World-Class Drum & Bass. We’ve been trying to book this DJ/Producer for some time now, and the planets finally line up to bring us KLUTE, the boss from Commercial Suicide, all the way from London, UK. This will surely be a stormer!
 
-[![](http://www.junglecode.com/images/blog/web_flyers/sage_thumb.jpg)](http://www.junglecode.org)  
+[![](https://www.junglecode.com/images/blog/web_flyers/sage_thumb.jpg)](http://www.junglecode.org)  
 [<span>SAGE</span>](http://www.myspace.com/sagephylum)  
 \[ Phylum : Milk : UK \]
 
 It’s been a while since Sage graced the junglecode decks in San Francisco and we’re proud to bring her back for another go in 2009. We’ll also have the finest local SF talent to bring the heat starting at 10PM so don’t be late.
 
-[![](http://www.junglecode.com/images/blog/myspace_bicolas.jpg)](http://www.junglecode.org)  
+[![](https://www.junglecode.com/images/blog/myspace_bicolas.jpg)](http://www.junglecode.org)  
 <span>BICOLAS</span>  
 \[ Skills : SF \]
 

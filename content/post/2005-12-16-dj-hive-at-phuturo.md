@@ -15,5 +15,5 @@ title: 'DJ Hive at Phuturo'
 url: /2005/12/16/dj-hive-at-phuturo/
 ---
 
-[![](http://www.junglecode.com/images/blog/hive_birthday_phuturo_sm.jpg)](http://www.junglecode.com/images/blog/hive_birthday_phuturo.jpg)  
+[![](https://www.junglecode.com/images/blog/hive_birthday_phuturo_sm.jpg)](https://www.junglecode.com/images/blog/hive_birthday_phuturo.jpg)  
 [DJ Hive](http://www.myspace.com/djhive) was headlining the weekly [Phuturo](http://www.phuturo.com) night last Tuesday, December 13, 2005. The junglists of San Francisco are so fortunate to have such heavy hitters living and making music in the city. It was clear that the local crowd wanted to hear the latest dubplates and DJ Hive did not disappoint. Watch out for the Human Violence tour featuring Hive and Dieselboy — it’s going to be Heavy!

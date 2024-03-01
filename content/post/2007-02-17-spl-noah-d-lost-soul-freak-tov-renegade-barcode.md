@@ -15,7 +15,7 @@ title: SPL + NOAH.D | Lost Soul | Freak | TOV | Renegade | Barcode
 url: /2007/02/17/spl-noah-d-lost-soul-freak-tov-renegade-barcode/
 ---
 
-[![](http://www.junglecode.com/images/blog/junglecode_monthly_002_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=28558)  
+[![](https://www.junglecode.com/images/blog/junglecode_monthly_002_thumb.jpg)](http://groundscore.net/board/viewtopic.php?t=28558)  
 <span style="font-weight: bold">[SPL](http://www.myspace.com/soundpressurelevels)</span>  
 \[ Lost Soul : Freak : Tech Itch : Obscene : junglecode \]  
 <span style="font-weight: bold">[NOAH.D](http://www.myspace.com/noahd)</span>  

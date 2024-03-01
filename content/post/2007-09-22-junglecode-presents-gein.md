@@ -15,7 +15,7 @@ title: 'junglecode presents GEIN'
 url: /2007/09/22/junglecode-presents-gein/
 ---
 
-![](http://www.junglecode.com/images/blog/junglecode_monthly_009_thumb.jpg)
+![](https://www.junglecode.com/images/blog/junglecode_monthly_009_thumb.jpg)
 
 [<span style="font-weight: bold">GEIN</span>](http://www.myspace.com/gein1)  
 \[ Tech Itch \* Evol Intent \* Moving Shadow \* Freak \* Habit \]

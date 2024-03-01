@@ -15,5 +15,5 @@ title: Get Therapy this Summer
 url: /2006/05/10/get-therapy-this-summer/
 ---
 
-![](http://www.junglecode.com/images/blog/therapy_web_flyer_thumb.gif)  
+![](https://www.junglecode.com/images/blog/therapy_web_flyer_thumb.gif)  
 We are very proud to present Therapy Sessions San Francisco this summer in cooperation with [Anger Management UK](http://www.myspace.com/angeruk) and [Freak Recordings](http://www.freak-recordings.com). More details will be announced here so check back regularly. SF Drum & Bass is alive and well. We don’t sleep.

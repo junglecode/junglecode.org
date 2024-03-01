@@ -15,5 +15,5 @@ title: Dylan in San Francisco
 url: /2006/05/03/dylan-in-san-francisco/
 ---
 
-[![](http://www.junglecode.com/images/blog/dylan_web_flyer_thumb.jpg)](http://www.junglecode.com/images/blog/dylan_web_flyer.jpg)  
+[![](https://www.junglecode.com/images/blog/dylan_web_flyer_thumb.jpg)](https://www.junglecode.com/images/blog/dylan_web_flyer.jpg)  
 That’s right, junglecode readers. Our [Ink & Loxy event](http://groundscore.net/board/viewtopic.php?t=19954) was so successful that we can’t just leave it alone. We are bringing out [Dylan](http://www.freak-recordings.com) \[Tech Freaks, Freak, Obscene, UK\] for an [exclusive San Francisco appearance](http://groundscore.net/board/viewtopic.php?t=20444) at [PHUTURO](http://www.phuturo.com) on May 2, 2006. Details are still getting firmed up, but the date is set and 100 percent confirmed. Ask for your vacation days now, because you will need them after Dylan is through with you. Thank you SF Drum & Bass crew!

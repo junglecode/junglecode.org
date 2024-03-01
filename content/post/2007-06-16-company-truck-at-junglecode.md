@@ -15,7 +15,7 @@ title: Company Truck at junglecode
 url: /2007/06/16/company-truck-at-junglecode/
 ---
 
-[![](http://www.junglecode.com/images/blog/myspace_company_truck.jpg)](http://www.groundscore.net/board/viewtopic.php?t=32226)
+[![](https://www.junglecode.com/images/blog/myspace_company_truck.jpg)](http://www.groundscore.net/board/viewtopic.php?t=32226)
 
 [<span style="font-weight: bold">COMPANY TRUCK</span>](http://www.myspace.com/companytruck)  
 \[ Sideways:BlackHoe:RawVision:Darkland:HeadWound \]
